@@ -1,6 +1,6 @@
 # ShortsSummary
 
-Já passou por uma situação na qual você gostaria de saber sobre o assunto abordado em Shorts, os pequenos vídeos do YouTube, mas, por algum motivo você consegue acessar o vídeo?
+Já passou por uma situação na qual você gostaria de saber sobre o assunto abordado em Shorts, os pequenos vídeos do YouTube, mas, por algum motivo você não consegue acessar o vídeo?
 
 A aplicação Shorts Summary traz essa solução!
 Esse modelo desenvolvido conta com integência artificial para  receber um link de um SHORTS (Vídeos com até 1 minuto de duração), guardar o áudio do vídeo e converte-lo em texto, tudo isso direto da Web. 
